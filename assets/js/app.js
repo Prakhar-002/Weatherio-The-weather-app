@@ -428,7 +428,6 @@ export const updateWeather = function (lat, lon) {
                         const [ { icon, description } ] = weather;
                         const date = new Date(dt_txt);
 
-                        console.log(date);
 
                         const li = document.createElement("li");
                         li.classList.add("card-item") ;
