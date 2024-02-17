@@ -1,5 +1,6 @@
 'use strict';
 
+// create your api key for use this code from OpenWeather and paste in place of here  (const api_key = "here" ;)
 import { apiKey } from "./apiKey.js";
 
 const api_key = apiKey ;
