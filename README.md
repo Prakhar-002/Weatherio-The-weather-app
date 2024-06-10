@@ -5,6 +5,8 @@
 Weathrio is a simple and intuitive weather website that provides `up-to-date weather information` for locations worldwide. With clean design and easy navigation, users can `quickly access current weather `conditions, hourly forecasts, and `extended forecasts for any location` they choose.
 
 
+</br>
+
 <h1 align="center"> 
 
 <a href="https://weather-with-prakhar.netlify.app/"><strong>➥ Live Demo</strong></a>
@@ -58,7 +60,7 @@ To To run weathrio locally, run this command on your git bash and **`Go to api.j
 
 ### Default API 🤔
 
-```https
+```JAVASCRIPT
   GET --> https://api.openweathermap.org/  == Default
 ```
 
@@ -66,6 +68,7 @@ To To run weathrio locally, run this command on your git bash and **`Go to api.j
 | :-------- | :------- | :------------------------- |
 | `appid` | `string` | **3186990c0f25f45a3a6cc958537c2b50**|
 
+---
 <br/>
 
 ### Requires || Optional Parameters 
@@ -81,39 +84,49 @@ To To run weathrio locally, run this command on your git bash and **`Go to api.j
 
 <br/>
 
+---
 ### API for **Current Weather** --> 🌡️
 
-```https
+```JAVASCRIPT
   GET --> {Default}data/2.5/weather?lat=${}&lon=${}&units=metric&appid=${api_key}
 ```
+
+---
 
 <br/>
 
 ### API for **Forecast** --> 🕛
 
-```https
+```JAVASCRIPT
   GET --> {Default}data/2.5/forecast?lat=${}&lon=${}&units=metric&appid=${api_key}
 ```
+
+---
 
 <br/>
 
 ### API for **Air Pollution** --> 👻
 
-```https
+```JAVASCRIPT
   GET --> {Default}data/2.5/air_pollution?lat=${}&lon=${}&appid=${api_key}
 ```
+---
+
 <br/>
 
 ### API for **Reverse Geo** --> 🌐
 
-```https
+```JAVASCRIPT
   GET --> {Default}geo/1.0/reverse?lat=${}&lon=${}&limit=5&appid=${api_key}
 ```
+
+---
 
 <br/>
 
 ### API for **Geo** --> 🌍
 
-```https
+```JAVASCRIPT
   GET --> {Default}geo/1.0/direct?q=${query}&limit=5&appid=${api_key}
 ```
+---
