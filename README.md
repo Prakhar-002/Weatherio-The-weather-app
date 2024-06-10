@@ -14,7 +14,7 @@ Weathrio is a simple and intuitive weather website that provides `up-to-date wea
 
 # Screenshots 🎉
 
-![weather img](image-1.png)
+![weather image](image-2.png)
 
 
 <br/>
