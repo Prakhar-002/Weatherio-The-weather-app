@@ -14,8 +14,7 @@ Weathrio is a simple and intuitive weather website that provides `up-to-date wea
 
 # Screenshots 🎉
 
-![Weathrio](https://github.com/Prakhar-002/JAVA-CODE/assets/136890202/7aa749a9-1907-433c-9dd7-6f3915b7f739)
-
+![# Weather App ☁️🌡️ app](image.png)
 
 
 <br/>
