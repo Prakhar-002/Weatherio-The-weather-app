@@ -26,15 +26,15 @@ Weathrio is a simple and intuitive weather website that provides `up-to-date wea
 <br/>
 
 ## Features 🥳
-- `Current Weather` -> Get real-time weather updates including `temperature, humidity, wind speed, and more for any city or town`.
+- `Current Weather` ➤ Get real-time weather updates including `temperature, humidity, wind speed, and more for any city or town`.
 
-- `Hourly Forecast` -> Plan your day with `hour-by-hour weather forecasts` to stay prepared for changing weather conditions.
+- `Hourly Forecast` ➤ Plan your day with `hour-by-hour weather forecasts` to stay prepared for changing weather conditions.
 
-- `Extended Forecast` -> Check the` weather outlook for the next 7 days`.
+- `Extended Forecast` ➤ Check the` weather outlook for the next 7 days`.
 
-- `Search Functionality` -> Easily **search for weather information by city name** with `autocomplete suggestions for quicker access`.
+- `Search Functionality` ➤ Easily **search for weather information by city name** with `autocomplete suggestions for quicker access`.
 
-- `Responsive Design` -> Enjoy a seamless experience across devices, from desktops to smartphones, with our responsive website layout.
+- `Responsive Design` ➤ Enjoy a seamless experience across devices, from desktops to smartphones, with our responsive website layout.
 
 <br/>
 
